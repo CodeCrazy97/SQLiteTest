@@ -125,7 +125,7 @@ public class SqliteTest {
         }
 
         // insert three new rows
-        app.insert(21, "Ethan", 135.4);
+        app.insert(21, "Ethan'a7&F^(W*&\"", 135.4);
         app.insert(19, "Anna", 122.1);
         app.insert(59, "Carol", 122);
 
